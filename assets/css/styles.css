@@ -1202,7 +1202,7 @@ body.dark-theme {
   border-radius: 10px;
   border-left: 5px solid #2ecc71;
   box-shadow: 1px 7px 14px -5px rgba(0,0,0,0.15);
-  width: 430px;
+  width: 300px;
   display: flex;
   align-items: center;
   justify-content: space-between;
